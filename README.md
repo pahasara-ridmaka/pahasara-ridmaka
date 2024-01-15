@@ -10,7 +10,8 @@
 
 <img style = "margin-left: 100" align = "left" height = 150 src = "avatar.png">
 
-<div align = "left" style = "; margin-left:300px; padding-top:20px"><a  href="#"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=28&pause=10&center=false&multiline=false&color=20F7B7&random=false&width=477&height=50&lines=Hello!%2C+I'm+%5CPahasara+Ridmaka%5C;A+Python+Enthusiast" alt="Pahasara Ridmaka" /></a>
+<br>
+<div align = "left" style = "; margin-left:300px; "><a  href="#"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=28&pause=10&center=false&multiline=false&color=20F7B7&random=false&width=477&height=50&lines=Hello!%2C+I'm+%5CPahasara+Ridmaka%5C;A+Python+Enthusiast" alt="Pahasara Ridmaka" /></a>
 
 </div>
 
@@ -21,6 +22,9 @@
 </p>
 </div>
 <!-- End of header section -->
+<br>
+<br>
+
 <hr>
 <div>
 <h2 align = "center" style="color:#20F7B7"> / about-me /</h2>
@@ -60,7 +64,7 @@
   </div>
 
  <div align = "center">
-  <summary><h2>🛠️ Tools</h2></summary>
+<h2>🛠️ Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
