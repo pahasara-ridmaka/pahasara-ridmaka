@@ -29,6 +29,7 @@
 <div>
 <h2 align = "center" style="color:#20F7B7"> / about-me /</h2>
 
+
 > I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Python.
 
 <br>
