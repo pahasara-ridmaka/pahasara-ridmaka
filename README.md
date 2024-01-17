@@ -31,6 +31,23 @@
 
 > I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Python.
 
+<br>
+
+<!-- repos -->
+
+<div align = "center">
+ <a>
+ <img  height = 150 align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=pahasara-ridmaka&repo=pahasara-portfolio-repo"/>
+</a>
+<a>
+ <img height = 150 align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=pahasara-ridmaka&repo=DjangoCRUD-CRM"/>
+</a>
+</div>
+
+<br>
+<br><br>
+
+
 > A Tip:
 > <br>
 
@@ -178,5 +195,27 @@
   </p>
 
 </div>
+
+<br>
+<br>
+
+<!-- Stats -->
+
+<div align = "center">
+ <a href="#">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahasara-ridmaka&layout=donut&langs_count=8" />
+</a>
+<a href = "#">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pahasara_ridmaka&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+
+
+<br>
+<br>
+
+
+
+
 
 ---
