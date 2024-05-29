@@ -8,7 +8,7 @@
  -->
 <div style = "padding-top:50px;padding-bottom:100px">
 
-<img style = "margin-left: 100" align = "left" height = 150 src = "avatar.png">
+<!-- <img style = "margin-left: 100" align = "left" height = 150 src = "avatar.png"> -->
 
 <br>
 <div align = "left" style = "; margin-left:300px; "><a  href="#"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=28&pause=10&center=false&multiline=false&color=20F7B7&random=false&width=477&height=50&lines=Hello!%2C+I'm+%5CPahasara+Ridmaka%5C;A+Python+Enthusiast" alt="Pahasara Ridmaka" /></a>
