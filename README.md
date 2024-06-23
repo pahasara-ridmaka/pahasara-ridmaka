@@ -48,11 +48,11 @@
 <br>
 <br><br>
 
-
+<!--
 > A Tip:
 > <br>
 
-<div align = "center"><img src = "code.png" height = "350px"></div>
+ <div align = "center"><img src = "code.png" height = "350px"></div> -->
   
 <h2 align = "center" style="color:#20F7B7"> / current-skills /</h2>
 
