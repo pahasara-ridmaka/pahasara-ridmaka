@@ -202,12 +202,17 @@
 
 <!-- Stats -->
 
-<div align = "center">
-<!--  <a href="#">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahasara-ridmaka&layout=donut&langs_count=8" />
-</a> -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=pahasara_ridmaka&layout=compact&langs_count=14&theme=dark)](https://wakatime.com/@pahasara_ridmaka)
-</div>
+<!-- <div align = "center">
+ <a href="#">
+ <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pahasara-ridmaka&layout=donut&langs_count=8](https://github-stats-extended.vercel.app/api/wakatime?username=pahasara_ridmaka&layout=compact&langs_count=14&theme=dark)" />
+</a>
+
+</div> -->
+<p align="center">
+  <a href="https://wakatime.com/@pahasara_ridmaka"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=pahasara_ridmaka&layout=compact&langs_count=14&theme=dark" alt="GitHub Stats"></a>
+</p>
+
+
 
 
 
@@ -219,3 +224,4 @@
 
 
 ---
+
