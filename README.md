@@ -206,10 +206,9 @@
 <!--  <a href="#">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahasara-ridmaka&layout=donut&langs_count=8" />
 </a> -->
-<a href = "#">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pahasara_ridmaka&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=pahasara_ridmaka&layout=compact&langs_count=14&theme=dark)](https://wakatime.com/@pahasara_ridmaka)
 </div>
+
 
 
 <br>
