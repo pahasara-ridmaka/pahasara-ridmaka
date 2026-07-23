@@ -12,8 +12,8 @@ import requests
 
 # Configurations
 API_KEY = os.environ.get('OPENWEATHER_API_KEY')  # Get API Key from OPEANWEATHER_API_KEY environment variable
-CITY = 'London'
-COUNTRY_CODE = 'UK'
+CITY = 'Panama'
+COUNTRY_CODE = 'LK'
 UNITS = 'metric'  # Use 'imperial' for Fahrenheit
 
 # Fetch Weather Data
