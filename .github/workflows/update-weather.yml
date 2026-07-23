@@ -30,7 +30,7 @@ jobs:
             - name: Update Weather
               env:
                 OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
-              run: python fetch-weather.py
+              run: python fetch_weather.py
 
             - name: Commit and push changes
               run: |
