@@ -6,7 +6,7 @@
 
 import os
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 # Configurations
 API_KEY = os.environ.get('OPENWEATHER_API_KEY')  
@@ -15,7 +15,7 @@ LON = 81.80
 UNITS = 'metric'
 
 # Get Current Date according to time zone for Colombo, Sri Lanka (UTC+5:30)
-colombo_tz = timezone(datetime.timedelta(hours=5, minutes=30))
+colombo_tz = timezone(timedelta(hours=5, minutes=30))
 current_time = datetime.now(colombo_tz)
 year = current_time.year
 month = current_time.month
