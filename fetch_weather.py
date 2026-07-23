@@ -56,7 +56,7 @@ if response.status_code == 200:
     # Update Weather section
     start_marker = "<!-- WEATHER_START -->"
     end_marker = "<!-- WEATHER_END -->"
-    weather_section = f"{start_marker}\n{weather_string}\n{end_marker}"
+    weather_section = f"{start_marker}{weather_string}{end_marker}"
 
 
     if start_marker in readme_content and end_marker in readme_content:
