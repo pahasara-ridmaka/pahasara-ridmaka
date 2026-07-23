@@ -52,9 +52,7 @@ I am a **Physical Science - Information and Communications Technology** undergra
 | **Code Editor** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white) Visual Studio Code (with Vim keybindings) |
 | **Browser** | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white) Mozilla Firefox (Developer Edition) |
 | **DE & Theme** | ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome-terminal&logoColor=white) GNOME 46 with Dark Mode & Custom Extensions |
-| **Environment Status** | <!-- WEATHER_START -->
-🌙 Clear sky, 26.98°C (Feels like 29.51°C) \| Humidity: 78% \| Wind Speed: 5.1 m/s
-<!-- WEATHER_END -->
+| **Environment Status** | <!-- WEATHER_START -->🌙 Clear sky, 26.98°C (Feels like 29.51°C) \| Humidity: 78% \| Wind Speed: 5.1 m/s<!-- WEATHER_END -->
 
 ---
 
