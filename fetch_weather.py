@@ -48,7 +48,7 @@ if response.status_code == 200:
     temp_unit = "°C" if UNITS == 'metric' else "°F"
 
     # Create Weather String
-    weather_string = f"{emoji} {description.capitalize()}, {temp}{temp_unit} (Feels like {feels_like}{temp_unit}) | Humidity: {humidity}% | Wind Speed: {wind_speed} m/s
+    weather_string = f"{emoji} {description.capitalize()}, {temp}{temp_unit} (Feels like {feels_like}{temp_unit}) \| Humidity: {humidity}% \| Wind Speed: {wind_speed} m/s
 
     # Read current README.md content
     with open('README.md', 'r') as file:
