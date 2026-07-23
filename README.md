@@ -36,5 +36,8 @@
 <!-- ASCII_ART_END -->
 
 
+<!-- WEATHER_START -->
+
+<!-- WEATHER_END -->
 
 
