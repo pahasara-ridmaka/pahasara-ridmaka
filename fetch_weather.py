@@ -6,13 +6,17 @@
 
 import os
 import requests
-
+from datetime import datetime
 
 # Configurations
 API_KEY = os.environ.get('OPENWEATHER_API_KEY')  
 LAT = 6.76
 LON = 81.80
 UNITS = 'metric'
+FULL_DATE = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+year = datetime.now().year
+month = datetime.now().month
+date = datetime.now().day
 
 
 # Fetch Weather Data
@@ -48,26 +52,39 @@ if response.status_code == 200:
 
     # Create Weather String
     weather_string = f"{emoji} {description.capitalize()}, {temp}{temp_unit} (Feels like {feels_like}{temp_unit}) \| Humidity: {humidity}% \| Wind Speed: {wind_speed} m/s"
+    last_updated_string = f'<img src="https://img.shields.io/badge/Last%20Updated-{year}--{month:02d}--{date:02d}-000000?style=flat-square" alt="Last Updated" />'
 
     # Read current README.md content
     with open('README.md', 'r') as file:
         readme_content = file.read()
 
     # Update Weather section
-    start_marker = "<!-- WEATHER_START -->"
-    end_marker = "<!-- WEATHER_END -->"
-    weather_section = f"{start_marker}{weather_string}{end_marker}"
+    weather_start_marker = "<!-- WEATHER_START -->"
+    weather_end_marker = "<!-- WEATHER_END -->"
+    date_start_marker = "<!-- DATE_START -->"
+    date_end_marker = "<!-- DATE_END -->"
+    weather_section = f"{weather_start_marker}{weather_string}{weather_end_marker}"
+    date_section = f"{date_start_marker}{last_updated_string}{date_end_marker}"
 
 
-    if start_marker in readme_content and end_marker in readme_content:
+    if weather_start_marker in readme_content and weather_end_marker in readme_content:
         # Replace existing weather section
-        updated_content = readme_content.split(start_marker)[0] + weather_section + readme_content.split(end_marker)[1]
+        weather_updated_content = readme_content.split(weather_start_marker)[0] + weather_section + readme_content.split(weather_end_marker)[1]
+
+    # Update Date section
+    if date_start_marker in readme_content and date_end_marker in readme_content:
+        date_updated_content = readme_content.split(date_start_marker)[0] + date_section + readme_content.split(date_end_marker)[1]
 
     # Write updated README.md 
     with open('README.md', 'w') as file:
-        file.write(updated_content)
+        file.write(weather_updated_content)
 
     print("Weather data updated successfully in README.md")
+
+    with open('README.md', 'w') as file:
+        file.write(date_updated_content)
+
+    print("Last updated date updated successfully in README.md")
 else:
     print(f"Failed to fetch weather data: {weather_data.get('message', 'Unknown error')}")
     exit(1)
