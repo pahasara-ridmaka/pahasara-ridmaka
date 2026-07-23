@@ -9,7 +9,7 @@ on:
     branches:
       - main
     paths:
-        - fetch-weather.py
+        - fetch_weather.py
 
 jobs:
     update-weather:
