@@ -12,7 +12,7 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=000000&label=Last%20Updated&query=%24.commit.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fpahasara-ridmaka%2Fpahasara-ridmaka%2Fcommits%2Fmain&style=flat-square" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--07--24-000000?style=flat-square" alt="Last Updated" />
   <img src="https://komarev.com/ghpvc/?username=pahasara-ridmaka&label=Profile%20Views&color=39FF14&style=flat-square" alt="pahasara-ridmaka" />
 </p>
 
