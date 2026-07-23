@@ -5,19 +5,18 @@
 
 
 import os
-# import json
 import requests
-# from datetime import datetime
 
 
 # Configurations
-API_KEY = os.environ.get('OPENWEATHER_API_KEY')  # Get API Key from OPEANWEATHER_API_KEY environment variable
-CITY = 'Panama'
-COUNTRY_CODE = 'LK'
-UNITS = 'metric'  # Use 'imperial' for Fahrenheit
+API_KEY = os.environ.get('OPENWEATHER_API_KEY')  
+LAT = 6.76
+LON = 81.80
+UNITS = 'metric'
+
 
 # Fetch Weather Data
-url = f"https://api.openweathermap.org/data/2.5/weather?q={CITY},{COUNTRY_CODE}&units={UNITS}&appid={API_KEY}"
+url = f"https://api.openweathermap.org/data/2.5/weather?lat={LAT}&lon={LON}&units={UNITS}&appid={API_KEY}"
 response = requests.get(url)
 weather_data = response.json()
 
