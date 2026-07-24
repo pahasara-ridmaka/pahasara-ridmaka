@@ -78,18 +78,13 @@ if response.status_code == 200:
 
     # Update Date section
     if date_start_marker in readme_content and date_end_marker in readme_content:
-        date_updated_content = readme_content.split(date_start_marker)[0] + date_section + readme_content.split(date_end_marker)[1]
+        date_updated_content = weather_updated_content.split(date_start_marker)[0] + date_section + weather_updated_content.split(date_end_marker)[1]
 
     # Write updated README.md 
     with open('README.md', 'w') as file:
-        file.write(weather_updated_content)
-
-    print("Weather data updated successfully in README.md")
-
-    with open('README.md', 'w') as file:
         file.write(date_updated_content)
 
-    print("Last updated date updated successfully in README.md")
+    print("Last updated date and Weather data updated successfully in README.md")
 else:
     print(f"Failed to fetch weather data: {weather_data.get('message', 'Unknown error')}")
     exit(1)
