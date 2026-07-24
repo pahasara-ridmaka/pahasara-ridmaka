@@ -54,9 +54,19 @@ I am a **Physical Science - Information and Communications Technology** undergra
 ---
 
 ### 🛡️ Certifications & Milestones
-* 🎓 **AWS Academy Graduate:** Data Engineering, Machine Learning Foundations, & Cloud Foundations
+* 🎓 **Introduction to dbt** (DataCamp) {Jul 2026}
+* 🎓 **Associate Data Engineer** (DataCamp) {Jul 2026}
+* 🎓 **Introduction to PySpark** (DataCamp) {Jul 2026}
+* 🎓 **Intermediate Docker** (DataCamp) {Jul 2026}
+* 🎓 **Introduction to Apache Airflow in Python** (DataCamp) {Jul 2026}
+* 🎓 **Introduction to Power BI** (DataCamp) {Jul 2026}
+* 🎓 **AWS Academy Graduate - Machine Learning Foundations - Training Badge** (AWS) {Jun 2026}
+* 🎓 **AWS Academy Graduate - Data Engineering - Training Badge** (AWS) {Jun 2026}
+* 🎓 **AWS Academy Graduate - Cloud Foundations - Training Badge** (AWS) {Jun 2026}
+* 🎓 **Introduction to Generative AI** (Google) {Jun 2025}
+* 🎓 **Postman API Fundamentals Student Expert** (Postman) {Sep 2024}
+* 🎓 **JavaScript Algorithm and Data Structure** (freeCodeCamp) {Dec 2023}
 * 🏆 **HackX 9.0 Finalist** | Co-founder of Team CODE9 (Top 15 out of 220+ teams)
-* 📜 **DataCamp Certified:** Associate Data Engineer in SQL | PySpark | Apache Airflow | Docker
 
 ---
 
