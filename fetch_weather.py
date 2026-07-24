@@ -20,6 +20,9 @@ current_time = datetime.now(colombo_tz)
 year = current_time.year
 month = current_time.month
 date = current_time.day
+hour = current_time.hour
+minute = current_time.minute
+second = current_time.second
 
 
 # Fetch Weather Data
@@ -55,7 +58,7 @@ if response.status_code == 200:
 
     # Create Weather String
     weather_string = f"{emoji} {description.capitalize()}, {temp}{temp_unit} (Feels like {feels_like}{temp_unit}) \| Humidity: {humidity}% \| Wind Speed: {wind_speed} m/s"
-    last_updated_string = f'<img src="https://img.shields.io/badge/Last%20Updated-{year}--{month:02d}--{date:02d}-000000?style=flat-square" alt="Last Updated" />'
+    last_updated_string = f'<img src="https://img.shields.io/badge/Last%20Updated-{year}--{month:02d}--{date:02d} {hour:02d}:{minute:02d}:{second:02d}-000000?style=flat-square" alt="Last Updated" />'
 
     # Read current README.md content
     with open('README.md', 'r') as file:
