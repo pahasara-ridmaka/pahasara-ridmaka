@@ -17,11 +17,7 @@
 
 ### 🚀 About Me
 
-I am a **Physical Science - Information and Communications Technology** undergraduate at the **University of Sri Jayewardenepura**. I specialize in building robust, end-to-end ETL pipelines, architecting API-driven applications, and crafting clean, modern user experiences. 
-
-* 🛠️ **Currently Focused On:** Scalable data architectures, workflow orchestration, and high-performance full-stack web applications.
-* 🐍 **Passionate About:** Python development, Linux system administration, and open-source contributions.
-* 🎨 **Creative Side:** Graphic designer & UI/UX enthusiast with an eye for minimalist, user-centric designs.
+I am a Physical Science - Information and Communications Technology undergraduate at the University of Sri Jayewardenepura, passionate about Open Source, Linux, and building things from the ground up.
 
 ---
 
@@ -50,23 +46,6 @@ I am a **Physical Science - Information and Communications Technology** undergra
 | **Browser** | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white) Mozilla Firefox (Developer Edition) |
 | **DE & Theme** | ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome-terminal&logoColor=white) GNOME 46 with Dark Mode & Custom Extensions |
 | **Environment Status** | <!-- WEATHER_START -->☁️ Overcast clouds, 26.89°C (Feels like 28.59°C) \| Humidity: 69% \| Wind Speed: 5.35 m/s<!-- WEATHER_END -->
-
----
-
-### 🛡️ Certifications & Milestones
-* 🎓 **Introduction to dbt** (DataCamp) {Jul 2026}
-* 🎓 **Associate Data Engineer** (DataCamp) {Jul 2026}
-* 🎓 **Introduction to PySpark** (DataCamp) {Jul 2026}
-* 🎓 **Intermediate Docker** (DataCamp) {Jul 2026}
-* 🎓 **Introduction to Apache Airflow in Python** (DataCamp) {Jul 2026}
-* 🎓 **Introduction to Power BI** (DataCamp) {Jul 2026}
-* 🎓 **AWS Academy Graduate - Machine Learning Foundations - Training Badge** (AWS) {Jun 2026}
-* 🎓 **AWS Academy Graduate - Data Engineering - Training Badge** (AWS) {Jun 2026}
-* 🎓 **AWS Academy Graduate - Cloud Foundations - Training Badge** (AWS) {Jun 2026}
-* 🎓 **Introduction to Generative AI** (Google) {Jun 2025}
-* 🎓 **Postman API Fundamentals Student Expert** (Postman) {Sep 2024}
-* 🎓 **JavaScript Algorithm and Data Structure** (freeCodeCamp) {Dec 2023}
-* 🏆 **HackX 9.0 Finalist** | Co-founder of Team CODE9 (Top 15 out of 220+ teams)
 
 ---
 
