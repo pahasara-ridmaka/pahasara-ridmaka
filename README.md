@@ -45,7 +45,7 @@ I am a Physical Science - Information and Communications Technology undergraduat
 | **Code Editor** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white) Visual Studio Code (with Vim keybindings) |
 | **Browser** | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white) Mozilla Firefox (Developer Edition) |
 | **DE & Theme** | ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome-terminal&logoColor=white) GNOME 46 with Dark Mode & Custom Extensions |
-| **Environment Status** | <!-- WEATHER_START -->⛅ Few clouds, 31.76°C (Feels like 34.16°C) \| Humidity: 51% \| Wind Speed: 5.57 m/s<!-- WEATHER_END -->
+| **Environment Status** | <!-- WEATHER_START -->☁️ Broken clouds, 34.56°C (Feels like 36.99°C) \| Humidity: 42% \| Wind Speed: 4.28 m/s<!-- WEATHER_END -->
 
 ---
 
@@ -64,7 +64,7 @@ I am a Physical Science - Information and Communications Technology undergraduat
 ---
 <p align="center"><i>"Building robust data pipelines by day, crafting minimalist interfaces by night."</i></p>
 <p align="center">
-  <!-- DATE_START --><img src="https://img.shields.io/badge/Last%20Updated-2026--08--19 09:05:05-000000?style=flat-square" alt="Last Updated" /><!-- DATE_END -->
+  <!-- DATE_START --><img src="https://img.shields.io/badge/Last%20Updated-2026--08--19 11:50:25-000000?style=flat-square" alt="Last Updated" /><!-- DATE_END -->
   <img src="https://komarev.com/ghpvc/?username=pahasara-ridmaka&label=Profile%20Views&color=39FF14&style=flat-square" alt="pahasara-ridmaka" />
 </p>
 
