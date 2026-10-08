@@ -43,6 +43,7 @@ jobs:
                 git add README.md
                 git diff --quiet && git diff --staged --quiet || (
                 git commit -m "🌤️ Update weather widget [automated]"
+                git pull --rebase origin main
                 git push origin main
                 )
                 
